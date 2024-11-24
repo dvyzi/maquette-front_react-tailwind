@@ -6,7 +6,7 @@ function Homepage() {
   return (
     <>
       <Header title='Accueil' />
-      <main className='flex flex-col gap-16 bg-[#F3F3F3]'>
+      <main className='flex flex-col gap-16'>
         <section className='flex justify-between items-center pt-16'>
           <div className='w-2/4 flex flex-col gap-9'>
             <h1>Découvrez les patisseries de Saharu AOKI</h1>

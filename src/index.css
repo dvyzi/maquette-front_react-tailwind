@@ -14,6 +14,10 @@
   font-family: 'Poppins', sans-serif;
 }
 
+main{
+  background-color: #F3F3F3;
+}
+
 /* HEADER */
 li {
   font-size: 18px;
@@ -85,6 +89,20 @@ h2 {
   line-height: 60px;
 }
 
+h3{
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px;
+}
+
+h4{
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px;
+}
+
 .description-p {
   height: 128px;
   font-size: 20px;
@@ -104,6 +122,7 @@ section{
   height: 400px;
 }
 
+
 /* Footer */
 
 .ourOfficeContain_footer{
@@ -114,17 +133,28 @@ section{
   padding-left: 40px;
 }
 
-h4{
-  font-size: 22px;
-  font-style: normal;
-  font-weight: 500;
-  line-height: 32px;
-}
-
 .miniDescription{
   color: #3C3C3B;
   font-size: 14px;
   font-style: normal;
   font-weight: 200;
   line-height: 20px;
+}
+
+
+/* PAGE NOS GATEAUX */
+
+.cardContain{
+  border: 1px solid black;
+  border-radius: 50px;
+  width: 386px;
+  background-color: #F3F3F3;
+  display: flex;
+  width: 386px;
+  height: 472px;
+  padding-bottom: 58px;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+  text-align: center;
 }
