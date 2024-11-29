@@ -38,7 +38,10 @@ function Nosgateaux() {
     )
 }
 
+export default Nosgateaux
 
+
+// Non utile :
 
 // function Nosgateaux() {
 //     return (
@@ -62,5 +65,3 @@ function Nosgateaux() {
 //         </>
 //     )
 // }
-
-export default Nosgateaux
