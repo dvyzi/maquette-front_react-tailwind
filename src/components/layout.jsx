@@ -1,5 +1,5 @@
 import { Linkedin, Mail } from 'lucide-react';
-import { Button } from '../components/basic'
+import { Button } from './basic'
 
 
 export function Header({ title }) {

@@ -1,0 +1,59 @@
+{
+    "patisseries": [
+        {
+            "id": 1,
+            "nom": "Éclair au chocolat",
+            "description": "Un délicieux éclair garni de crème au chocolat, surmonté d'un glaçage fondant.",
+            "prix": 2.50
+        },
+        {
+            "id": 2,
+            "nom": "Tartelette aux fruits",
+            "description": "Une tartelette croquante avec une garniture aux fruits frais et une touche de crème pâtissière.",
+            "prix": 3.00
+        },
+        {
+            "id": 3,
+            "nom": "Croissant au beurre",
+            "description": "Le croissant classique, feuilleté et doré, fait avec du beurre de qualité.",
+            "prix": 1.80
+        },
+        {
+            "id": 4,
+            "nom": "Madeleine",
+            "description": "Petite pâtisserie moelleuse, légère et parfumée au citron.",
+            "prix": 1.20
+        },
+        {
+            "id": 5,
+            "nom": "Macaron à la framboise",
+            "description": "Un macaron délicat, avec une ganache à la framboise douce et acidulée.",
+            "prix": 2.00
+        },
+        {
+            "id": 6,
+            "nom": "Gâteau au chocolat",
+            "description": "Un gâteau moelleux et fondant au chocolat noir intense.",
+            "prix": 3.50
+        },
+        {
+            "id": 7,
+            "nom": "Tarte au citron meringuée",
+            "description": "Une tarte sucrée et acidulée avec une meringue légère et aérienne.",
+            "prix": 3.20
+        }
+        ,
+        {
+            "id": 8,
+            "nom": "Brioche au sucre",
+            "description": "Une brioche moelleuse et sucrée, parfaite pour le petit-déjeuner.",
+            "prix": 2.00
+        },
+        {
+            "id": 9,
+            "nom": "Cannelé Bordelais",
+            "description": "Un petit gâteau à la texture caramélisée et au cœur tendre, parfumé au rhum et à la vanille.",
+            "prix": 2.40
+        }
+    ]
+}
